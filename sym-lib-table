@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Sim7022")(type "KiCad")(uri "C:/Users/morte/Downloads/Sim7022.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/Library.pretty/New_Library.kicad_sym")(options "")(descr ""))
+)
